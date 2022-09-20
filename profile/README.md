@@ -1,6 +1,6 @@
 # Team Aether
 
-We are a team of students from [Jomo Kenyatta University of Agriculture and Technology](https://www.jkuat.ac.ke) participating in the annual [Robotics Dojo Competition](https://roboticsdojo.github.io/competition.html).
+We are a team of students from [Jomo Kenyatta University of Agriculture and Technology](https://www.jkuat.ac.ke) participating in the annual [Robotics Dojo Competition](https://roboticsdojo.github.io/competition.html). The qualifying round will take place on 18th October 2022 and the finals will take place on 19th October 2022.
 
 ## Meet The Team
 
